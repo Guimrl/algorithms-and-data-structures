@@ -4,7 +4,5 @@ const random = (count) => {
     const number = Math.floor(Math.random() * 100);
     numbers.push(number);
   }
-  return numbers
+  return numbers;
 }
-
-export default random;
