@@ -1,6 +1,6 @@
 import bubbleSort from "./algorithms/bubbleSort.js";
 import quickSort from "./algorithms/quickSort.js";
-import random from "./algorithms/random.js";
+import random from "./utils/random.js";
 import selectionSort from "./algorithms/selectionSort.js";
 
 //------- bubbleSort -------//
